@@ -1,0 +1,20 @@
+.sourcetext {
+  color: grey;
+  text-decoration: none;
+}
+.ptext {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  color: forestgreen
+}
+.headingtext {
+  color: brown;
+}
+.choicetext {
+  font-family: Georgia, serif;
+  color: brown;
+  text-decoration: none
+}
+.choicetext:hover {
+  background-color:lightblue
+}
